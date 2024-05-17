@@ -42,243 +42,243 @@
     },
     {
       "name": "Ballinasloe",
-      "crs": "ACC"
+      "crs": "BSLOE"
     },
     {
       "name": "Ballybrophy",
-      "crs": "ACG"
+      "crs": "BBRHY"
     },
     {
       "name": "Ballyhaunis",
-      "crs": "ACH"
+      "crs": "BYHNS"
     },
     {
       "name": "Ballymote",
-      "crs": "ACK"
+      "crs": "BMOTE"
     },
     {
       "name": "Banteer",
-      "crs": "ACL"
+      "crs": "BTEER"
     },
     {
       "name": "Bayside",
-      "crs": "ACN"
+      "crs": "BYSDE"
     },
     {
       "name": "Birdhill",
-      "crs": "ACR"
+      "crs": "BHILL"
     },
     {
       "name": "Blackrock",
-      "crs": "ACT"
+      "crs": "BROCK"
     },
     {
       "name": "Booterstown",
-      "crs": "ACY"
+      "crs": "BTSTN"
     },
     {
       "name": "Boyle",
-      "crs": "ADC"
+      "crs": "BOYLE"
     },
     {
       "name": "Bray",
-      "crs": "ADD"
+      "crs": "BRAY"
     },
     {
       "name": "Broombridge",
-      "crs": "ADK"
+      "crs": "BBRDG"
     },
     {
       "name": "Cahir",
-      "crs": "ADL"
+      "crs": "CAHIR"
     },
     {
       "name": "Carlow",
-      "crs": "ADM"
+      "crs": "CRLOW"
     },
     {
       "name": "Carrick on Shannon",
-      "crs": "ADN"
+      "crs": "CKOSH"
     },
     {
       "name": "Carrick on Suir",
-      "crs": "ADR"
+      "crs": "CKOSR"
     },
     {
       "name": "Carrigaloe",
-      "crs": "ADS"
+      "crs": "CGLOE"
     },
     {
       "name": "Carrigtwohill",
-      "crs": "ADV"
+      "crs": "CGTWL"
     },
     {
       "name": "Castlebar",
-      "crs": "ADW"
+      "crs": "CLBAR"
     },
     {
       "name": "Castleconnell",
-      "crs": "AFK"
+      "crs": "CCONL"
     },
     {
       "name": "Castleknock",
-      "crs": "AFS"
+      "crs": "CNOCK"
     },
     {
       "name": "Castlerea",
-      "crs": "AFV"
+      "crs": "CSREA"
     },
     {
       "name": "Charleville",
-      "crs": "AGL"
+      "crs": "CVILL"
     },
     {
       "name": "Clara",
-      "crs": "AGS"
+      "crs": "CLARA"
     },
     {
       "name": "Claremorris",
-      "crs": "AGT"
+      "crs": "CLMRS"
     },
     {
       "name": "Clondalkin and Fonthill",
-      "crs": "AGV"
+      "crs": "CLDKN"
     },
     {
       "name": "Clongriffin",
-      "crs": "AHD"
+      "crs": "GRGRD"
     },
     {
       "name": "Clonmel",
-      "crs": "AHN"
+      "crs": "CLMEL"
     },
     {
       "name": "Clonsilla",
-      "crs": "AHS"
+      "crs": "CLSLA"
     },
     {
       "name": "Clontarf Road",
-      "crs": "AHT"
+      "crs": "CTARF"
     },
     {
       "name": "Cloughjordan",
-      "crs": "AHV"
+      "crs": "CJRDN"
     },
     {
       "name": "Cobh",
-      "crs": "AIG"
+      "crs": "COBH"
     },
     {
       "name": "Collooney",
-      "crs": "AIN"
+      "crs": "CLONY"
     },
     {
       "name": "Coolmine",
-      "crs": "AIR"
+      "crs": "CMINE"
     },
     {
       "name": "Cork (Kent)",
-      "crs": "ALB"
+      "crs": "CORK"
     },
     {
       "name": "Craughwell",
-      "crs": "ALD"
+      "crs": "CRGHW"
     },
     {
       "name": "Dalkey",
-      "crs": "ALF"
+      "crs": "DLKEY"
     },
     {
       "name": "Docklands",
-      "crs": "ALK"
+      "crs": "DCKLS"
     },
     {
       "name": "Donabate",
-      "crs": "ALM"
+      "crs": "DBATE"
     },
     {
       "name": "Drogheda (MacBride)",
-      "crs": "ALN"
+      "crs": "DGHDA"
     },
     {
       "name": "Dromod",
-      "crs": "ALO"
+      "crs": "DRMOD"
     },
     {
       "name": "Drumcondra",
-      "crs": "ALP"
+      "crs": "DCDRA"
     },
     {
       "name": "Dublin Connolly",
-      "crs": "ALR"
+      "crs": "CNNLY"
     },
     {
       "name": "Dublin Heuston",
-      "crs": "ALT"
+      "crs": "HSTON"
     },
     {
       "name": "Dublin Pearse",
-      "crs": "ALV"
+      "crs": "PERSE"
     },
     {
       "name": "Dun Laoghaire (Mallin)",
-      "crs": "ALW"
+      "crs": "DLERY"
     },
     {
       "name": "Dunboyne",
-      "crs": "ALX"
+      "crs": "DBYNE"
     },
     {
       "name": "Dundalk (Clarke)",
-      "crs": "AMB"
+      "crs": "DDALK"
     },
     {
       "name": "Edgeworthstown",
-      "crs": "AMF"
+      "crs": "ETOWN"
     },
     {
       "name": "Enfield",
-      "crs": "AML"
+      "crs": "ENFLD"
     },
     {
       "name": "Ennis",
-      "crs": "AMR"
+      "crs": "ENNIS"
     },
     {
       "name": "Enniscorthy",
-      "crs": "AMT"
+      "crs": "ECRTY"
     },
     {
       "name": "Farranfore",
-      "crs": "AMY"
+      "crs": "FFORE"
     },
     {
       "name": "Fota",
-      "crs": "ANC"
+      "crs": "FOTA"
     },
     {
       "name": "Foxford",
-      "crs": "AND"
+      "crs": "FXFRD"
     },
     {
       "name": "Galway (Ceannt)",
-      "crs": "ANF"
+      "crs": "GALWY"
     },
     {
       "name": "Glenageary",
-      "crs": "ANG"
+      "crs": "GLGRY"
     },
     {
       "name": "Glounthaune",
-      "crs": "ANL"
+      "crs": "GHANE"
     },
     {
       "name": "Gorey",
-      "crs": "ANN"
+      "crs": "GOREY"
     },
     {
       "name": "Gormanstown",
-      "crs": "ANS"
+      "crs": "GSTON"
     },
     {
       "name": "Grand Canal Dock",
@@ -286,307 +286,295 @@
     },
     {
       "name": "Greystones",
-      "crs": "AON"
+      "crs": "GSTNS"
     },
     {
       "name": "Hansfield",
-      "crs": "APB"
+      "crs": "HAFLD"
     },
     {
       "name": "Harmonstown",
-      "crs": "APD"
+      "crs": "HTOWN"
     },
     {
       "name": "Hazelhatch and Cellbridge",
-      "crs": "APF"
+      "crs": "HZLCH"
     },
     {
       "name": "Howth",
-      "crs": "APG"
+      "crs": "HOWTH"
     },
     {
       "name": "Howth Junction",
-      "crs": "APP"
+      "crs": "HWTHJ"
     },
     {
       "name": "Kilbarrack",
-      "crs": "APS"
+      "crs": "KBRCK"
     },
     {
       "name": "Kilcock",
-      "crs": "APY"
+      "crs": "KCOCK"
     },
     {
       "name": "Kilcoole",
-      "crs": "ARB"
+      "crs": "KCOOL"
     },
     {
       "name": "Kildare",
-      "crs": "ARD"
+      "crs": "KDARE"
     },
     {
       "name": "Kilkenny",
-      "crs": "ARG"
+      "crs": "KKNNY"
     },
     {
       "name": "Killester",
-      "crs": "ARL"
+      "crs": "KLSTR"
     },
     {
       "name": "Killiney",
-      "crs": "ARM"
+      "crs": "KILNY"
     },
     {
       "name": "Lansdowne Road",
-      "crs": "ARN"
-    },
-    {
-      "name": "Arram",
-      "crs": "ARR"
+      "crs": "LDWNE"
     },
     {
       "name": "Laytown",
-      "crs": "ART"
+      "crs": "LTOWN"
     },
     {
       "name": "Leixlip (Confey)",
-      "crs": "ARU"
+      "crs": "LXCON"
     },
     {
       "name": "Leixlip (Louisa Bridge)",
-      "crs": "ASB"
+      "crs": "LXLSA"
     },
     {
       "name": "Limerick (Colbert)",
-      "crs": "ASC"
+      "crs": "LMRCK"
     },
     {
       "name": "Limerick Junction",
-      "crs": "ASF"
+      "crs": "LMRKJ"
     },
     {
       "name": "Little Island",
-      "crs": "ASG"
+      "crs": "LSLND"
     },
     {
       "name": "Longford",
-      "crs": "ASH"
+      "crs": "LFORD"
     },
     {
       "name": "M3 Parkway",
-      "crs": "ASK"
+      "crs": "M3WAY"
     },
     {
       "name": "Malahide",
-      "crs": "ASN"
+      "crs": "MHIDE"
     },
     {
       "name": "Mallow",
-      "crs": "ASP"
+      "crs": "MLLOW"
     },
     {
       "name": "Manulla Junction",
-      "crs": "ASS"
+      "crs": "MNLAJ"
     },
     {
       "name": "Maynooth",
-      "crs": "AST"
+      "crs": "MYNTH"
     },
     {
       "name": "Midleton",
-      "crs": "ASY"
+      "crs": "MDLTN"
     },
     {
       "name": "Millstreet",
-      "crs": "ATB"
+      "crs": "MLSRT"
     },
     {
       "name": "Monasterevin",
-      "crs": "ATH"
+      "crs": "MONVN"
     },
     {
       "name": "Muine Bheag (Bagenalstown)",
-      "crs": "ATL"
+      "crs": "MNEBG"
     },
     {
       "name": "Mullingar",
-      "crs": "ATN"
+      "crs": "MLGAR"
     },
     {
       "name": "Navan Road Parkway",
-      "crs": "ATT"
+      "crs": "PHNPK"
     },
     {
       "name": "Nenagh",
-      "crs": "AUD"
+      "crs": "NNAGH"
     },
     {
       "name": "Newbridge",
-      "crs": "AUG"
+      "crs": "NBRGE"
     },
     {
       "name": "Oranmore",
-      "crs": "AUI"
+      "crs": "ORNMR"
     },
     {
       "name": "Park West and Cherry Orchard",
-      "crs": "AUK"
+      "crs": "CHORC"
     },
     {
       "name": "Pelletstown",
-      "crs": "AUR"
-    },
-    {
-      "name": "Portadown",
-      "crs": "AUW"
+      "crs": "PELTN"
     },
     {
       "name": "Portarlington",
-      "crs": "AVF"
+      "crs": "PTRTN"
     },
     {
       "name": "Portlaoise",
-      "crs": "AVM"
+      "crs": "PTLSE"
     },
     {
       "name": "Portmarnock",
-      "crs": "AVN"
+      "crs": "AVPMNCK"
     },
     {
       "name": "Raheny",
-      "crs": "AVP"
+      "crs": "RAHNY"
     },
     {
       "name": "Rathdrum",
-      "crs": "AVY"
+      "crs": "RDRYM"
     },
     {
       "name": "Rathmore",
-      "crs": "AWK"
+      "crs": "RMORE"
     },
     {
       "name": "Roscommon",
-      "crs": "AWM"
+      "crs": "RSCMN"
     },
     {
       "name": "Roscrea",
-      "crs": "AWT"
+      "crs": "RCREA"
     },
     {
       "name": "Rosslare Europort",
-      "crs": "AXM"
+      "crs": "RLEPT"
     },
     {
       "name": "Rosslare Strand",
-      "crs": "AXP"
+      "crs": "RLSTD"
     },
     {
       "name": "Rush and Lusk",
-      "crs": "AYH"
+      "crs": "RLUSK"
     },
     {
       "name": "Rushbrooke",
-      "crs": "AYL"
+      "crs": "RBROK"
     },
     {
       "name": "Sallins and Naas",
-      "crs": "AYP"
+      "crs": "SALNS"
     },
     {
       "name": "Salthill and Monkstown",
-      "crs": "AYR"
+      "crs": "SHILL"
     },
     {
       "name": "Sandycove",
-      "crs": "AYS"
+      "crs": "SCOVE"
     },
     {
       "name": "Sandymount",
-      "crs": "AYW"
+      "crs": "SMONT"
     },
     {
       "name": "Seapoint",
-      "crs": "BAA"
+      "crs": "SEAPT"
     },
     {
       "name": "Shankill",
-      "crs": "BAB"
+      "crs": "SKILL"
     },
     {
       "name": "Sixmilebridge",
-      "crs": "BAC"
+      "crs": "SXMBR"
     },
     {
       "name": "Skerries",
-      "crs": "BAD"
+      "crs": "SKRES"
     },
     {
       "name": "Sligo",
-      "crs": "BAG"
+      "crs": "SLIGO"
     },
     {
       "name": "Sutton",
-      "crs": "BAH"
+      "crs": "SUTTN"
     },
     {
       "name": "Sydney Parade",
-      "crs": "BAI"
+      "crs": "SIDNY"
     },
     {
       "name": "Tara Street",
-      "crs": "BAJ"
+      "crs": "TARA"
     },
     {
       "name": "Templemore",
-      "crs": "BAK"
+      "crs": "TPMOR"
     },
     {
       "name": "Thomastown",
-      "crs": "BAL"
+      "crs": "THTWN"
     },
     {
       "name": "Thurles",
-      "crs": "BAM"
+      "crs": "THRLS"
     },
     {
       "name": "Tipperary",
-      "crs": "BAN"
+      "crs": "TIPPRY"
     },
     {
       "name": "Tralee (Casement)",
-      "crs": "BAR"
+      "crs": "TRLEE"
     },
     {
       "name": "Tullamore",
-      "crs": "BAS"
+      "crs": "TMORE"
     },
     {
       "name": "Waterford (Plunkett)",
-      "crs": "BAT"
+      "crs": "WFORD"
     },
     {
       "name": "Westport",
-      "crs": "BAU"
+      "crs": "WPORT"
     },
     {
       "name": "Wexford (O'Hanrahan)",
-      "crs": "BAV"
+      "crs": "WXFRD"
     },
     {
       "name": "Wicklow",
-      "crs": "BAW"
+      "crs": "WLOW"
     },
     {
       "name": "Woodlawn",
-      "crs": "BAY"
+      "crs": "WLAWN"
     },
     {
       "name": "Killarney",
-      "crs": "BBG"
-    },
-    {
-      "name": "Kishogue",
-      "crs": "BBK"
-    }  
+      "crs": "KLRNY"
+    } 
   ]
 }
