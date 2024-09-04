@@ -575,6 +575,10 @@
     {
       "name": "Killarney",
       "crs": "KLRNY"
+    },
+    {
+      "name": "Kishoge",
+      "crs": "KISHO"
     } 
   ]
 }
